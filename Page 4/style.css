@@ -1,0 +1,211 @@
+body{
+    background-color: #05131a;
+    font-family: "Quicksand";
+}
+.boxo{
+    border: 4px solid #e83a4b;
+    border-radius: 20px;
+    box-shadow: 0px 0px 50px 20px #e83a4b ;
+    width: 1850px;
+    background-color: #061c27;
+    margin-left: 28px;
+    height: 800px;
+    margin-top: 100px;
+}
+.tect{
+    /* border: 1px solid black; */
+    margin-left: 750px;
+    font-weight: 800;
+    color: #75b4c4;
+    text-decoration: underline 5px #e83a4b;
+    margin-top: 20px;
+    font-size: 35px;
+    font-family: ;
+}
+
+.all{
+    border: 3px solid #75b4c4;
+    border-radius: 15px;
+    width: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #e83a4b;
+    margin-top: 63px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 70px;
+    font-size: 40px;
+}
+.all:hover{
+    box-shadow: 0px 0px 20px 7px #e83a4b ;
+}
+a{
+    text-decoration:none;
+    font-weight: 800;
+    color: #e83a4b; 
+}
+.b{
+    margin-left: 200px;
+    border: 3px solid #75b4c4;
+    border-radius: 15px;
+    width: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #e83a4b;
+    margin-top: -76px;
+    height: 50px;
+    padding: 10px;
+    font-size: 40px;
+}
+.b:hover{
+    box-shadow: 0px 0px 20px 7px #e83a4b ;
+}
+.c{
+    margin-left: 330px;
+    border: 3px solid #75b4c4;
+    border-radius: 15px;
+    width: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #e83a4b;
+    margin-top: -75px;
+    height: 50px;
+    padding: 10px;
+    font-size: 40px;
+}
+.c:hover{
+    box-shadow: 0px 0px 20px 7px #e83a4b ;
+}
+.keys{
+    border: 5px solid #75b4c4;
+    width: 490px;
+    margin-left: 655px;
+    height: 600px;
+    margin-top: 100px;
+    background-color: #05131a;
+    border-radius: 90px;
+    box-shadow: 0px 0px 30px 0px #75b4c4 ;
+}
+.line{
+    border: 1px solid #75b4c4;
+    width: 1500px;
+    margin-left: 50px;
+    margin-top: -0px;
+}
+.d{
+    border: 3px solid #75b4c4;
+    border-radius: 15px;
+    width: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #e83a4b;
+    margin-top: 63px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 70px;
+    font-size: 40px;
+}
+.e{
+    border: 3px solid #75b4c4;
+    border-radius: 15px;
+    width: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #e83a4b;
+    margin-top: -76px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 200px;
+    font-size: 40px;
+}
+.f{
+    border: 3px solid #75b4c4;
+    border-radius: 15px;
+    width: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #e83a4b;
+    margin-top: -77px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 330px;
+    font-size: 40px;
+}
+.g{
+    border: 3px solid #75b4c4;
+    border-radius: 15px;
+    width: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #e83a4b;
+    margin-top: 63px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 70px;
+    font-size: 40px;
+}
+.h{
+    border: 3px solid #75b4c4;
+    border-radius: 15px;
+    width: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #e83a4b;
+    margin-top: -76px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 200px;
+    font-size: 40px;
+}   
+.i{
+    border: 3px solid #75b4c4;
+    border-radius: 15px;
+    width: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #e83a4b;
+    margin-top: -77px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 330px;
+    font-size: 40px;
+}
+.j{
+    border: 3px solid #75b4c4;
+    border-radius: 15px;
+    width: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #e83a4b;
+    margin-top: 63px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 70px;
+    font-size: 40px;
+}   
+.k{
+    border: 3px solid #75b4c4;
+    border-radius: 15px;
+    width: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #e83a4b;
+    margin-top: -76px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 200px;
+    font-size: 40px;
+}
+.l{
+    border: 3px solid #75b4c4;
+    border-radius: 15px;
+    width: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #e83a4b;
+    margin-top: -77px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 330px;
+    font-size: 40px;
+}
